@@ -1,6 +1,6 @@
 <div align="center">
     
-![](https://64.media.tumblr.com/e855f4fc1dc618ba78a50a8c8d7dc5fa/a27dd4e5c5448277-9f/s500x750/f41a3a5a1e7e87f3147d367acd9af90ad6a1dfe0.pnj)
+![](https://i.postimg.cc/1Xr8WdxN/dice-again.png)
 
 <p align="center" width="100%">
     <img width="33%" src="image">
